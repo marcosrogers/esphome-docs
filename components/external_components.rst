@@ -23,7 +23,7 @@ Bundled components can be overridden using this feature.
         components: [ rtttl ]
 
       # equivalent shorthand for GitHub pull request
-      - source: github://pr#2639
+      - source: 'github://pr#2639'
         components: [ rtttl ]
 
       # use all components from a local folder
